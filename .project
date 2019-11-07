@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>RedSox</name>
 	<comment>Project RedSox created by Buildship.</comment>
+=======
+	<name>Yankees</name>
+	<comment>Project Yankees created by Buildship.</comment>
+>>>>>>> branch 'master' of https://github.com/leiyi777/lab8.git
 	<projects>
 	</projects>
 	<buildSpec>
