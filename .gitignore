@@ -1,6 +1,3 @@
+*.class
 /.gradle/
-<<<<<<< HEAD
-=======
-/.gradle/
->>>>>>> branch 'master' of https://github.com/leiyi777/lab8.git
 /bin/

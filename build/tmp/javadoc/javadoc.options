@@ -1,0 +1,6 @@
+-classpath 'D:\\COMP3111\\eclipse-workspace\\RedSox\\build\\classes\\java\\main;D:\\COMP3111\\eclipse-workspace\\RedSox\\build\\resources\\main'
+-d 'D:\\COMP3111\\eclipse-workspace\\RedSox\\build\\docs\\javadoc'
+-doctitle 'RedSox API'
+-quiet 
+-windowtitle 'RedSox API'
+'D:\\COMP3111\\eclipse-workspace\\RedSox\\src\\main\\java\\Library.java'
